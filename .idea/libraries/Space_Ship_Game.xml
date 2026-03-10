@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Space Ship Game">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/res" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/res" recursive="false" type="SOURCES" />
+  </library>
+</component>
