@@ -52,6 +52,7 @@ public class Window extends JFrame implements Runnable{
     }
 
     private void update(){
+        keyBoard.update();
         gameState.update();
 
     }
